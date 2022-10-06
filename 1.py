@@ -1,6 +1,6 @@
 name=input("Введите ваше имя: ")
-surname=input("Введите ваше фамилию: ")
-birthday=input("Введите ваше год рождения: ")
+surname=input("Введите вашу фамилию: ")
+birthday=input("Введите ваш год рождения: ")
 print(name+"_"+surname+"_"+birthday)
 birthday=int(birthday)
 birthday=birthday+60
